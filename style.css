@@ -27,15 +27,15 @@ a {
 
 
 .container {
-  max-width: 1000px;
+  max-width: 800px;
   margin: 0 auto;
-  padding: 0 18px;
+  padding: 0 20px;
 }
 
 .site-title {
-  width: 110px;
-  line-height: 1px;
-  margin-right: 50px;
+  width: 130px;
+  line-height: 3px;
+  margin-right: 40px;
 }
 
 .site-title a {
@@ -43,14 +43,14 @@ a {
 }
 
 .section-title {
-  font-size: 1.5rem;
+  font-size: 2rem;
   font-weight: normal;
-  margin-bottom: 4px;
+  margin-bottom: 5px;
 }
 
 .section-title-en {
   display: inline-block;
-  margin-bottom: 25px;
+  margin-bottom: 30px;
 }
 
 /*-------------------------------------------
@@ -58,7 +58,7 @@ Mainvisual
 -------------------------------------------*/
 
 #mainvisual {
-  width: 90vw;
+  width: 100vw;
   margin: 4% auto 0 auto;
 }
 
@@ -66,11 +66,11 @@ Mainvisual
 Header
 -------------------------------------------*/
 #header {
-  width: 90vw;
+  width: 100vw;
   display: flex;
   align-items: center;
-  padding: 32px 0;
-  margin: 0 auto 30px auto;
+  padding: 40px 0;
+  margin: 0 auto 25px auto;
 }
 
 #header ul {
@@ -78,8 +78,8 @@ Header
 }
 
 #header li {
-  font-size: 0.875rem;
-  margin-right: 30px;
+  font-size: 1rem;
+  margin-right: 25px;
 }
 
 #header li:last-child {
@@ -92,7 +92,7 @@ Concept、Work
 .content {
   display: flex;
   align-items: center;
-  margin-bottom: 60px;
+  margin-bottom: 55px;
 }
 
 .content .img {
@@ -110,12 +110,12 @@ Footer
 #footer {
   display: flex;
   justify-content: space-between;
-  font-size: 0.875rem;
-  padding: 20px 0;
+  font-size: 1rem;
+  padding: 25px 0;
 }
 
 #footer .logo {
-  width: 110px;
+  width: 120px;
 }
 
 /*-------------------------------------------
@@ -145,7 +145,7 @@ SP
   -------------------------------------------*/
   #header {
     width: 100%;
-    padding: 20px 18px;
+    padding: 15px 20px;
   }
 
   /*-------------------------------------------
@@ -162,7 +162,7 @@ SP
 
   .content .img {
     width: 100%;
-    margin-bottom: 10px;
+    margin-bottom: 15px;
   }
 
   .content .text {
